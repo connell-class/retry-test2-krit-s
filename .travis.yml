@@ -4,6 +4,6 @@ git:
     depth: false
 script: ./ci.sh
 notifications:
-    email: krit.s255@gmail.com
+    email:
     #enter your email address below
         - krit.s255@gmail.com
